@@ -9,8 +9,8 @@ __for development mode:__
 
 __for production mode:__
 
-`docker build -t dockerreact .`
+`docker build -t dockervue .`
 
-`docker run -p 8080:80 dockerreact`
+`docker run -p 8080:80 dockervue`
 
 `http://localhost:8080`
