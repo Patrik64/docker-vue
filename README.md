@@ -5,7 +5,7 @@ __for development mode:__
 
 `docker-compose up -d`
 
-`http://localhost:3000`
+`http://localhost:8080`
 
 __for production mode:__
 
