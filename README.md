@@ -3,7 +3,7 @@ base docker image for vue apps
 
 __for development mode:__
 
-`docker-compose up -d`
+`docker-compose up`
 
 `http://localhost:8080`
 
