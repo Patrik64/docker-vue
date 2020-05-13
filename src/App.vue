@@ -1,8 +1,9 @@
 <template>
-  <div id="app">
+  <div id="app" class="bg-grey-900 w-full h-full">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link> |
+      <router-link to="/tailwindtest">Tailwind Test</router-link>
     </div>
     <router-view/>
   </div>
