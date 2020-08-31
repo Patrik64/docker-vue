@@ -7,6 +7,10 @@ __for development mode:__
 
 `docker-compose up`
 
+in case you already have an image:
+
+`docker-compose up --build`
+
 open the browser and navigate to:
 
 `http://localhost:8080`
